@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NivelacionAndroid</string>
+
+    //Strings MainActivity
+    <string name="text_title">HOLA MUNDO</string>
+    <string name="text_name">Nombre</string>
+    <string name="text_last_name">Apellido</string>
+    <string name="text_age">Edad</string>
+    <string name="text_btn">REGISTRAR</string>
+    <string name="pepe">HOLA PEPE</string>
+
+</resources>
